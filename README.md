@@ -1,6 +1,6 @@
 ![thunderbolt mac pro 5,1 cover](./images/thunderbolt-mac-pro-5-1.png)
 
-[Home](./README.md) ▸ Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card
+[Home](./README.md) ▸ Thunderbolt Mac Pro 2008 Hackintosh with Gigabyte GC-Titan Ridge Card
 
 
 # [Thunderbolt Mac Pro 3.1 2008 Hackintosh with Gigabyte GC-Titan Ridge Card]
