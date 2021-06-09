@@ -3,22 +3,23 @@
 [Home](./README.md) ▸ Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card
 
 
-# [Thunderbolt Mac Pro Early 2009 with Gigabyte GC-Titan Ridge Card](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge.html)
+# [Thunderbolt Mac Pro 3.1 2008 Hackintosh with Gigabyte GC-Titan Ridge Card](https://ameyrupji.github.io/thunderbolt-macpro-5-1/GC-TitanRidge.html)
 
-This is my story to add Thunderbolt support to my Mac Pro Early 2009 (5,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
+This is my story to add Thunderbolt support to Hackintosh (Gigabyte Z390M Gaming) Mac Pro 2008 (3,1) with a Gigabyte GC-Titan Ridge Card. Before we begin a quick disclaimer below.
 
 **Difficulty Level:** Medium
 
 > **Disclaimer:** Try this at your own risk. I do not guaranty that this will work for you but I hope it does. This is purely for educational purposes and I am not responsible for any void in warranty. This is not a end all be all guide for getting the GC-Titan Ridge thunderbolt card working for every use case. These steps have worked for me but there might be additional steps that might be required for getting other thunderbolt devices to work. Please follow the links mentioned in the the `Useful Links` section below for more update to date information about the community postings on this topic.
 
 
-## About my Mac Pro 5,1
+## About my Mac Pro 3,1 (Hackintosh)
 
 My mac pro has the following configurations:
 
-- Processor:        2 x 3.33 Ghz 6-Core Intel Xeon (X5680)
-- Memory:           96 GB 1066 Mhz DDR3 ECC
-- Graphics          AMD Radeon RX 580 8 GB
+- Processor:        3.60 Ghz ~ 5.00 Ghz 8-Core Intel i9 (9900K)
+- Motherboard:      Gigabyte Z390M Gaming
+- Memory:           64 GB 3200 Mhz DDR4
+- Graphics          AMD Radeon RX Vega 56 8 GB
 
 My purchase and upgrade story can be found [here](https://ameyrupji.github.io/macpro-5-1/) ([Github View](https://github.com/ameyrupji/macpro-5-1)).
 
@@ -51,9 +52,10 @@ Unscrew the 4 philips head screws to expose the PCB:
 The blue and the green chips that need to be flashed have a small dot with their respective colors.
 
 
-### Install flashrom using brew
+### Download and Install flashrom using brew
 
 ```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
 brew install flashrom
 ```
 
