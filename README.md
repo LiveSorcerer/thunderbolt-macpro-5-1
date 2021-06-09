@@ -30,6 +30,11 @@ My purchase and upgrade story can be found [here](https://ameyrupji.github.io/ma
 - Custom firmware for the Gigabyte GC-Titan Ridge Card v2.0 [Download](https://forums.macrumors.com/threads/testing-tb3-aic-with-mp-5-1.2143042/post-28291766). Links to old fimware can be found [here](./GC-TitanRidge-CustomFirmware.md)).
 
 
+Device / Model	|Thunderbolt Firmware File Name	|Comment
+------------ | ------------- | -------------
+Gigabyte GC-Titan Ridge v1.0 add-in-card	| GC-TITAN-RIDGE-NVM23-Elias64Fr.bin TitanRidgeMacOSFirmware.bin	| PCIe card V1.0 (before Jul 2020) Big Sur 11.3 onwards requires TitanRidgeMacOSFirmware.bin, but USB 2.x and 3.x devices will not connect
+Gigabyte GC-Titan Ridge v2.0 add-in-card |	GC-Titan-Ridge-V2.0-Mod-NVM50-CaseySJ.bin	| PCIe card V2.0 (since Jul 2020)
+
 ## My Upgrade Journey
 
 ### Gigabyte GC-Titan Ridge Card package contents
