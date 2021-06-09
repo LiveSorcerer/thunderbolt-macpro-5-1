@@ -243,11 +243,10 @@ BlackMagic Speed Test with a mSata SSD. This test was done while on of the USB-C
 
 I have tested this is working on the following Operating Systems:
 
-- Mojave 10.14.6 (Officially supported with Metal supported cards)
+- Mojave 10.14.6 
 - Catalina 10.15.3 
-- Windows 10 with Bootcamp 6.1.0
+- Big Sur 11.4
 
-**Note:** I do not recommend or support installing unsupported macOS on your Mac Pro.
 
 ### Known Issues
 
