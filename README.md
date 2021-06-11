@@ -167,8 +167,7 @@ Inner view:
 
 ### Thunderbolt devices tested
 
-- Apple Thunderbolt Display [link](./GC-TitanRidge-AppleThunderboldDisplay.md)
-- MOTU 828mk2 Hybrid Audio Interface [link](./GC-TitanRidge-MOTU828mk2HybridAudioInterface.md)
+- SSD NVMe M.2 Thunderbolt 3 - TCM2T3-G40 [link](https://pt.aliexpress.com/item/4001215831558.html?spm=a2g0s.9042311.0.0.4d43b90a5zAoN1)
 
 ### USB devices tested
 
